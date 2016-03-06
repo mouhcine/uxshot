@@ -1,0 +1,22 @@
+# Site settings
+title: UXSHOT
+email: hello@looramoora.com
+description: > # this means to ignore newlines until "baseurl:"
+  UXApp is a collection of best UX app pattern and flows
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: looramoora
+github_username:  looramoora
+
+
+# Outputting
+permalink: /:categories/:title
+timezone: Europe/Rome
+
+# Build settings
+markdown: kramdown
+
+
+
+paginate: 2
+# paginate_path: "/page:num/"
