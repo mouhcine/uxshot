@@ -4,22 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I’m a UX Designer who think about the Person, his reactions, his behaviours.
+I’m an UI-UX Designer who think about the Person, human behaviours and emotions.
 
-My purpose is understanding and measuring his experience, thinking also out of his interaction with UI.
-So I can discover missing in UI + UX that obstacles caching of the target, of himself one and product’s one.
+My purpose is understanding and driving experiences: I have a strong desire to find product problems and customer needs and to solve them with design.
+Make life easier for huge user bases products is my persuasion.
 
-Catching problems and needs I can start with executive phase.
+Everything starts with right questions: from the answers I create sketchings on paper to identify as many solutions it’s needed to achieve goals. Avoiding not working sketch, I convert conveying ones in working prototypes, taking care about interactions, animations and flows.
+I share prototype with stakeholder and developer to collect feedback in order to refine the prototype and taking care about the details.
+After that I iterate with developers to give life to the prototype.
 
-I create sketching on paper to identify as many solutionsas it’s needed to solve the problem.
-Avoiding not working sketch, I convert conveying ones in working prototypes, taking care about interactions, animations and flows.
-In that phase I think to how and what iit’s necessary to persuade people and to answer to his needs, thinking to aims of product too.
+I have experience in UI design of iOS and Android native apps, following two different operating system patterns, and responsive web-application too.
 
-Finally I define mockup and I iter with development team, via agile method, about realisation o prototypes and the definition of what measeuring to defy the straight of the work.
+I have a deep interest of psychology and recently I’m discovering and studing ux research methods.
 
-
-This is what I take care of.
-
-
-Hire me at hello@looramoora.com
+Contact me at hello@looramoora.com
 
