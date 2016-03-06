@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UXSHOT</title>
-    <description>UXApp is a collection of best UX app pattern and flows
+    <description>UXSHOT is a collection of best UX app pattern and flows
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2016 18:11:05 +0100</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2016 18:11:05 +0100</lastBuildDate>
+    <link>http://uxshot.com/</link>
+    <atom:link href="http://uxshot.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Mar 2016 18:13:43 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 18:13:43 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -16,8 +16,8 @@
 
 </description>
         <pubDate>Thu, 09 Jul 2015 21:09:50 +0200</pubDate>
-        <link>http://yourdomain.com/app/booking/sort</link>
-        <guid isPermaLink="true">http://yourdomain.com/app/booking/sort</guid>
+        <link>http://uxshot.com/app/booking/sort</link>
+        <guid isPermaLink="true">http://uxshot.com/app/booking/sort</guid>
         
         <category>listin</category>
         
@@ -37,8 +37,8 @@
         <description>&lt;p&gt;Abbiamo dato all’app l’istruzione di poter cercare secondo i paramentri che interessano all’utente, ma è possibile in qualsiasi momento annullare l’azione.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 19:09:50 +0200</pubDate>
-        <link>http://yourdomain.com/app/booking/search-loading</link>
-        <guid isPermaLink="true">http://yourdomain.com/app/booking/search-loading</guid>
+        <link>http://uxshot.com/app/booking/search-loading</link>
+        <guid isPermaLink="true">http://uxshot.com/app/booking/search-loading</guid>
         
         <category>search</category>
         
@@ -57,8 +57,8 @@
 
 </description>
         <pubDate>Sun, 28 Jun 2015 19:09:50 +0200</pubDate>
-        <link>http://yourdomain.com/app/booking/list</link>
-        <guid isPermaLink="true">http://yourdomain.com/app/booking/list</guid>
+        <link>http://uxshot.com/app/booking/list</link>
+        <guid isPermaLink="true">http://uxshot.com/app/booking/list</guid>
         
         <category>listing</category>
         
@@ -80,8 +80,8 @@
 &lt;p&gt;3 — Molto peso alla ricerca e ai viaggi futuri&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 11:09:10 +0200</pubDate>
-        <link>http://yourdomain.com/app/booking/good</link>
-        <guid isPermaLink="true">http://yourdomain.com/app/booking/good</guid>
+        <link>http://uxshot.com/app/booking/good</link>
+        <guid isPermaLink="true">http://uxshot.com/app/booking/good</guid>
         
         <category>search</category>
         
@@ -100,8 +100,8 @@
 
 </description>
         <pubDate>Sat, 27 Jun 2015 19:09:50 +0200</pubDate>
-        <link>http://yourdomain.com/app/twitter/photogallery</link>
-        <guid isPermaLink="true">http://yourdomain.com/app/twitter/photogallery</guid>
+        <link>http://uxshot.com/app/twitter/photogallery</link>
+        <guid isPermaLink="true">http://uxshot.com/app/twitter/photogallery</guid>
         
         <category>photogallery</category>
         
@@ -121,8 +121,8 @@
 &lt;p&gt;ciao&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2015 17:11:50 +0200</pubDate>
-        <link>http://yourdomain.com/app/uber/search</link>
-        <guid isPermaLink="true">http://yourdomain.com/app/uber/search</guid>
+        <link>http://uxshot.com/app/uber/search</link>
+        <guid isPermaLink="true">http://uxshot.com/app/uber/search</guid>
         
         <category>search</category>
         
