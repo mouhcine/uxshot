@@ -16,6 +16,3 @@ After that I iterate with developers to give life to the prototype.
 I have experience in UI design of iOS and Android native apps, following two different operating system patterns, and responsive web-application too.
 
 I have a deep interest of psychology and recently I’m discovering and studing ux research methods.
-
-
-
