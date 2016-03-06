@@ -17,5 +17,5 @@ I have experience in UI design of iOS and Android native apps, following two dif
 
 I have a deep interest of psychology and recently I’m discovering and studing ux research methods.
 
-Contact me at hello@looramoora.com
+
 
