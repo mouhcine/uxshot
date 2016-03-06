@@ -15,8 +15,3 @@ year: 2015
 
 
 Abbiamo dato all'app l'istruzione di poter cercare secondo i paramentri che interessano all'utente, ma è possibile in qualsiasi momento annullare l'azione.
-
-
-
-
-
