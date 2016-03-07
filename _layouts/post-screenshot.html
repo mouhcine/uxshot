@@ -24,6 +24,10 @@ layout: default
       
             <div class="post-screenshot col-4">
                 <img class="shadow-screenshot" width="320" src="{{ page.image}}" />
+                {% for pointer in page.pointers %}
+                    <div class="pointer" style="top: {{ pointer }}px; left: {{ pointer }}">
+                    </div>
+                {% endfor %}
             </div>
 
             <article class="post-content col-6">

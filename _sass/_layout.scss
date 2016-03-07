@@ -248,6 +248,14 @@ a:hover{
     overflow: hidden;
 }
 
+.pointer{
+    min-width: 10px;
+    min-height: 10px;
+    background: $primary-color;
+    position: absolute;
+    border-radius: 50%;
+}
+
 .post-tag{
     margin-top: 200px;
     color: $gray;
@@ -272,6 +280,7 @@ a:hover{
 
 .post-screenshot{
     float: left;
+    position: relative;
     .post-header,
     .post-content{
         margin-top: 20px;

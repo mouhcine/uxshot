@@ -319,6 +319,13 @@ a:hover {
   border-radius: 5px;
   overflow: hidden; }
 
+.pointer {
+  min-width: 10px;
+  min-height: 10px;
+  background: #FF4BAE;
+  position: absolute;
+  border-radius: 50%; }
+
 .post-tag {
   margin-top: 200px;
   color: #4A4A4A; }
@@ -338,7 +345,8 @@ a:hover {
       font-size: 36px; } }
 
 .post-screenshot {
-  float: left; }
+  float: left;
+  position: relative; }
   .post-screenshot .post-header,
   .post-screenshot .post-content {
     margin-top: 20px; }
