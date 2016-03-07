@@ -4,7 +4,7 @@
 
 
 body{
-    background: $light-blue;
+    background: #fff;
 }
 
 a:hover{
@@ -23,8 +23,8 @@ a:hover{
  * Site header
  */
 .site-header {
-    background: #fff;
-    border-top: 5px solid $primary-color;
+    border-top: 2px solid $primary-color;
+    box-shadow: 2px 0 15px -1px rgba(0,0,0,.1);
     min-height: 80px;
 
     // Positioning context for the mobile navigation icon
@@ -116,7 +116,7 @@ a:hover{
  */
 .site-footer {
     padding: $spacing-unit 0 0;
-    background: $medium-blue;
+    background: $light-blue;
 }
 
 .footer-heading {
@@ -180,7 +180,7 @@ a:hover{
 }
 
 .bottom-footer{
-    background: $light-blue;
+    background: #fff;
     height: 40px;
     line-height: 40px;
     margin-bottom: 0;

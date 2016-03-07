@@ -1,8 +1,8 @@
 # Site settings
-title: UXSHOT
+title: UXShot
 email: hello@looramoora.com
 description: > # this means to ignore newlines until "baseurl:"
-  UXSHOT is a collection of best UX app pattern and flows
+  UXShot is a collection of best UX app pattern and flows
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://uxshot.com" # the base hostname & protocol for your site
 twitter_username: looramoora
