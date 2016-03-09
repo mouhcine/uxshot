@@ -13,7 +13,5 @@ tags: [listing, travel]
 year: 2015
 ---
 
- 
-Mostrare degli hotel già presi mi dà senso di utilizzo e di efficacia del servizio. 
 
-
+Mostrare degli hotel già presi mi dà senso di utilizzo e di efficacia del servizio.

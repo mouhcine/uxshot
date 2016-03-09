@@ -13,6 +13,4 @@ tags: [photogallery, social]
 year: 2015
 ---
 
-descrizione 
-
-
+Descrizione

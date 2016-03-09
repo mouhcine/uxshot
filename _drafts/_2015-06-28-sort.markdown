@@ -13,6 +13,5 @@ tags: [listin, sort, travel]
 year: 2015
 ---
 
- 
-Dare la possibilità di ordinare gli annunci senza che il risultato sia una nuova ricerca con i valori ordinati secondo la preferenza.
 
+Dare la possibilità di ordinare gli annunci senza che il risultato sia una nuova ricerca con i valori ordinati secondo la preferenza.
