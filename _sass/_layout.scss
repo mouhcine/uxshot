@@ -211,9 +211,8 @@ a:hover{
     opacity: 0;
     position: absolute;
     top: 0;
-    width: 140px;
+    width: 100%;
     height: 100%;
-    padding: 10px;
     background: rgba(255, 255, 255, 0.9);
     text-align: center;
 }
@@ -245,8 +244,14 @@ a:hover{
 }
 
 .post-tag{
-    margin-top: 200px;
+    position: absolute;
+    width: 90%;
+    padding: 0 5%;
+    margin: 0;
+    text-align: center;
+    bottom: 0;
     color: $gray;
+    background: #fff;
 }
 
 /**
