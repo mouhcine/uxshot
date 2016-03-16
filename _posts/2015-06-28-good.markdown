@@ -18,8 +18,5 @@ year: 2015
 pointers: ["top:30px; left: 10px;", "top:100px; left: 150px;"]
 ---
 
-1 — Gli stepper al contrario di un input, facilitano la scelta e la validazione del valore corretto evitando di selezionare caratteri non ammessi e indicano a colpo d'occhio che tipo di valore può essere inserito.
-
-2 — Il box giallo delimita lo strumento di ricerca con tutti i suoi tool per settare i vari paramentri
-
-3 — Molto peso alla ricerca e ai viaggi futuri
+A yellow box highlights the search tool. Every single parameter can be easily understood by the UI.
+If the stepper or the data picker were selects, catch the sense and the feature of the search would be more difficult and slower.

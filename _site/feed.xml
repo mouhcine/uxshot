@@ -6,8 +6,8 @@
 </description>
     <link>http://uxshot.com/</link>
     <atom:link href="http://uxshot.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Mar 2016 19:28:27 +0100</pubDate>
-    <lastBuildDate>Wed, 16 Mar 2016 19:28:27 +0100</lastBuildDate>
+    <pubDate>Wed, 16 Mar 2016 19:38:25 +0100</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2016 19:38:25 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -34,11 +34,8 @@ Clocks tell us the hour in that part of the world.&lt;/p&gt;
     
       <item>
         <title>Post</title>
-        <description>&lt;p&gt;1 — Gli stepper al contrario di un input, facilitano la scelta e la validazione del valore corretto evitando di selezionare caratteri non ammessi e indicano a colpo d’occhio che tipo di valore può essere inserito.&lt;/p&gt;
-
-&lt;p&gt;2 — Il box giallo delimita lo strumento di ricerca con tutti i suoi tool per settare i vari paramentri&lt;/p&gt;
-
-&lt;p&gt;3 — Molto peso alla ricerca e ai viaggi futuri&lt;/p&gt;
+        <description>&lt;p&gt;A yellow box highlights the search tool. Every single parameter can be easily understood by the UI.
+If the stepper or the data picker were selects, catch the sense and the feature of the search would be more difficult and slower.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 11:09:10 +0200</pubDate>
         <link>http://uxshot.com/app/booking/good</link>
@@ -55,7 +52,9 @@ Clocks tell us the hour in that part of the world.&lt;/p&gt;
     
       <item>
         <title>Search</title>
-        <description>
+        <description>&lt;p&gt;A way to not loose the unique system notification request is to put a view that ask user to turn on notification.
+In this view specify the advantages to use turn on notification can increase the conversion rate.
+So it’s important that user understand app is asking him to turn on notification.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2015 17:11:50 +0200</pubDate>
         <link>http://uxshot.com/app/uber/search</link>

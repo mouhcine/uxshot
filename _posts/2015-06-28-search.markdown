@@ -16,3 +16,7 @@ year: 2015
 
 pointers:
 ---
+
+A way to not loose the unique system notification request is to put a view that ask user to turn on notification.
+In this view specify the advantages to use turn on notification can increase the conversion rate.
+So it's important that user understand app is asking him to turn on notification. 
