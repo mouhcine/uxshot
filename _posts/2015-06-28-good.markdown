@@ -3,13 +3,16 @@ layout: post-screenshot
 title:  "Post"
 date:   2015-06-28 09:09:10
 
-categories:  [app, booking]
+categories: [app, booking]
 path: /images/app/booking
 image: /images/app/booking/image.png
 
-app: Booking
+organization: Booking
+organization-type: travel
+property: app
+property-type: iOS
 part: search
-tags: [search, travel]
+tags: [search]
 year: 2015
 
 pointers: ["top:30px; left: 10px;", "top:100px; left: 150px;"]

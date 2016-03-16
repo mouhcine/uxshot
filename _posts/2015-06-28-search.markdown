@@ -1,0 +1,18 @@
+---
+layout: post-screenshot
+title:  "Search"
+date:   2015-06-27 15:11:50
+
+categories: [app, uber]
+path: /images/app/uber
+image: /images/app/uber/ask_permission.png
+
+organization: Uber
+property: app
+property-type: iOS
+part: ask permission
+tags: [push notification, ask permission]
+year: 2015
+
+pointers:
+---

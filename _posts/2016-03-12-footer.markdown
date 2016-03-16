@@ -1,0 +1,25 @@
+---
+layout: post-screenshot
+title:  "Footer"
+date:   2016-03-12 20:34:50
+
+categories: [website, reaktor]
+path: /images/website/reaktor
+image: /images/website/reaktor/reaktor-footer-time.jpg
+
+organization: Reaktor
+organization-type: agency
+property: website
+property-type: desktop
+url: https://reaktor.com/
+part: footer
+tags: [contact, time]
+year: 2015
+
+pointers:
+---
+
+Reaktor highlights the presence of their 3 offices using minimal clocks above the addresses.
+Clocks tell us the hour in that part of the world.
+
+Clocks have different brightness: I think it depends on AM or PM hour, but it's not so clear.
