@@ -254,6 +254,7 @@ a:hover{
     bottom: 0;
     color: $gray;
     background: #fff;
+    font-size: 14px;
 }
 
 /**
@@ -287,7 +288,7 @@ a:hover{
 .site-nav .bt-primary{
     background: $fucsia;
     border-radius: 5px;
-    padding: 12px 10px;
+    padding: 10px 15px;
     color: #fff;
     &:hover{
         background: $fucsia-light;

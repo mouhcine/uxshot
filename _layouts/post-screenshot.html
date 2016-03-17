@@ -9,6 +9,8 @@ layout: default
 
                 <h1 class="post-title t-medium">{{ page.organization }}</h1>
                 <p class="post-meta t-secondary">
+                    {{ page.organization-type }}
+                    <br />
                     {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
                 </p>
                 <ul class="list-none t-secondary">
@@ -17,6 +19,11 @@ layout: default
                         {{ tag }}
                     </li>
                     {% endfor %}
+
+                    <li>
+                        {{ page.property }} {{ page.property-type }}
+                    </li>
+
                 </ul>
 
                 {{ page.tag}}
