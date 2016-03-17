@@ -1,6 +1,5 @@
 <header class="site-header">
 
-  <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
@@ -19,9 +18,9 @@
           <a class="page-link {% if page.class %}{{ page.class }}{% endif %}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+          <a class="page-link bt-primary" href="mailto:hello@uxshot.com">Suggest a Shot</a>
       </div>
     </nav>
 
-  </div>
 
 </header>
